@@ -1,3 +1,11 @@
+We (as the "weapons" bot developers) collect certain data to make the bot work such as:
+- weapons (in-game weapons from OwO bot)
+- teams (a team in OwO bot consists of up to 3 animals wielding weapons)
+- shards, and custom weapons (bounded to your user ID - those are being generated/used by the "fun" commands of the bot).
+
+That data (weapons and teams) is required since they are the main source for our statistical commands.
+Shards and custom weapons on the other hand are only being generated/used by interacting with the "fun" commands of the bot.
+
 **WHAT WE COLLECT**
 Certain Discord data is being only collected as soon as you run a command from the "fun" category.
 That data is included to:
@@ -21,3 +29,4 @@ Users can currently reach out to us, the "weapons" bot developers, if they:
 - have concerns about the bot or wish to remove their data (shards and custom weapons).
 
 **CONTACT**
+- https://discord.gg/4WSBD96Xta
