@@ -30,3 +30,4 @@ Users can currently reach out to us, the "weapons" bot developers, if they:
 
 **CONTACT**
 - https://discord.gg/4WSBD96Xta
+- weaponbotdeveloper@gmail.com
